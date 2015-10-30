@@ -1,0 +1,4 @@
+recursive-include genfunc/public *
+include genfunc/public/favicon.ico
+recursive-include genfunc/i18n *
+recursive-include genfunc/templates *
